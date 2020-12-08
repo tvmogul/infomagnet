@@ -1,0 +1,45 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Capacitor\your2bsports\node_modules\infomagnet\android\src\main\AndroidManifest.xml:2:3-7:14
+INJECTED from C:\Capacitor\your2bsports\node_modules\infomagnet\android\src\main\AndroidManifest.xml:2:3-7:14
+INJECTED from C:\Capacitor\your2bsports\node_modules\infomagnet\android\src\main\AndroidManifest.xml:2:3-7:14
+INJECTED from C:\Capacitor\your2bsports\node_modules\infomagnet\android\src\main\AndroidManifest.xml:2:3-7:14
+INJECTED from C:\Capacitor\your2bsports\node_modules\infomagnet\android\src\main\AndroidManifest.xml:2:3-7:14
+INJECTED from C:\Capacitor\your2bsports\node_modules\infomagnet\android\src\main\AndroidManifest.xml:2:3-7:14
+INJECTED from C:\Capacitor\your2bsports\node_modules\infomagnet\android\src\main\AndroidManifest.xml:2:3-7:14
+	package
+		ADDED from C:\Capacitor\your2bsports\node_modules\infomagnet\android\src\main\AndroidManifest.xml:3:7-53
+		INJECTED from C:\Capacitor\your2bsports\node_modules\infomagnet\android\src\main\AndroidManifest.xml
+		INJECTED from C:\Capacitor\your2bsports\node_modules\infomagnet\android\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Capacitor\your2bsports\node_modules\infomagnet\android\src\main\AndroidManifest.xml
+		ADDED from C:\Capacitor\your2bsports\node_modules\infomagnet\android\src\main\AndroidManifest.xml:2:3-7:14
+		INJECTED from C:\Capacitor\your2bsports\node_modules\infomagnet\android\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Capacitor\your2bsports\node_modules\infomagnet\android\src\main\AndroidManifest.xml
+		ADDED from C:\Capacitor\your2bsports\node_modules\infomagnet\android\src\main\AndroidManifest.xml:2:3-7:14
+		INJECTED from C:\Capacitor\your2bsports\node_modules\infomagnet\android\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Capacitor\your2bsports\node_modules\infomagnet\android\src\main\AndroidManifest.xml:2:13-71
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Capacitor\your2bsports\node_modules\infomagnet\android\src\main\AndroidManifest.xml:5:7-81
+	android:name
+		ADDED from C:\Capacitor\your2bsports\node_modules\infomagnet\android\src\main\AndroidManifest.xml:5:24-78
+uses-permission#android.permission.READ_PHONE_NUMBERS
+ADDED from C:\Capacitor\your2bsports\node_modules\infomagnet\android\src\main\AndroidManifest.xml:6:7-79
+	android:name
+		ADDED from C:\Capacitor\your2bsports\node_modules\infomagnet\android\src\main\AndroidManifest.xml:6:24-76
+uses-sdk
+INJECTED from C:\Capacitor\your2bsports\node_modules\infomagnet\android\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Capacitor\your2bsports\node_modules\infomagnet\android\src\main\AndroidManifest.xml
+INJECTED from C:\Capacitor\your2bsports\node_modules\infomagnet\android\src\main\AndroidManifest.xml
+INJECTED from C:\Capacitor\your2bsports\node_modules\infomagnet\android\src\main\AndroidManifest.xml
+INJECTED from C:\Capacitor\your2bsports\node_modules\infomagnet\android\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Capacitor\your2bsports\node_modules\infomagnet\android\src\main\AndroidManifest.xml
+		ADDED from C:\Capacitor\your2bsports\node_modules\infomagnet\android\src\main\AndroidManifest.xml
+		INJECTED from C:\Capacitor\your2bsports\node_modules\infomagnet\android\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Capacitor\your2bsports\node_modules\infomagnet\android\src\main\AndroidManifest.xml
+		ADDED from C:\Capacitor\your2bsports\node_modules\infomagnet\android\src\main\AndroidManifest.xml
+		INJECTED from C:\Capacitor\your2bsports\node_modules\infomagnet\android\src\main\AndroidManifest.xml
